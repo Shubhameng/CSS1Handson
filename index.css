@@ -1,0 +1,34 @@
+.head{
+    color:crimson;
+    
+}
+.italic{
+    color: red;
+    
+}
+p{
+    color: maroon;
+}
+.head2{
+    color:red;
+    font-style: italic;
+}
+span{
+    text-decoration: line-through;
+}
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: maroon;
+    
+}
+
+.special{
+    color: maroon;
+    font-weight: bold;
+}
+mark{
+    color:maroon;
+}
+.last-text{
+    font-size: 20px;
+}
